@@ -1,18 +1,18 @@
 site: Lena Song
 
-url: https://songlena.github.io/
+url: https://songlena.github.io
 baseurl: ""
 
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: https://songlena.github.io/:name
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: https://songlena.github.io/blog/:slug
   projects:
     output: true
-    permalink: /project/:slug
+    permalink: https://songlena.github.io/project/:slug
 
 defaults:
   -
