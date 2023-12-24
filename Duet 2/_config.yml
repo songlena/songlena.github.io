@@ -1,7 +1,7 @@
-site: Duet Jekyll Theme
+site: Lena Song
 
 url: https://songlena.github.io/
-baseurl: 
+baseurl: ""
 
 collections:
   pages:
