@@ -23,19 +23,19 @@ defaults:
   -
     scope:
       path: ""
-      type: "pages"
+      type: "_pages"
     values:
       layout: "page"
   -
     scope:
       path: ""
-      type: "posts"
+      type: "_posts"
     values:
       layout: "post"
   -
     scope:
       path: ""
-      type: "projects"
+      type: "_projects"
     values:
       layout: "project"
 
