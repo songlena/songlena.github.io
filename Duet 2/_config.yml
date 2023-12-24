@@ -6,13 +6,13 @@ baseurl: ""
 collections:
   pages:
     output: true
-    permalink: https://songlena.github.io/:name
+    permalink: /:name
   posts:
     output: true
-    permalink: https://songlena.github.io/blog/:slug
+    permalink: /:slug
   projects:
     output: true
-    permalink: https://songlena.github.io/project/:slug
+    permalink: /:slug
 
 defaults:
   -
